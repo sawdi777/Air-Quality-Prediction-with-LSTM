@@ -35,15 +35,6 @@ This project demonstrates the potential of **remote sensing and machine learning
 
 ---
 
-## Repository Contents
-
-- **`data/`**: Contains scripts for data collection and preprocessing. *(Note: Actual data files are not included due to size constraints.)*
-- **`models/`**: Includes the implementation of **XGBoost** and **LSTM** models for prediction.
-- **`notebooks/`**: Jupyter notebooks demonstrating step-by-step processing, modeling, and evaluation.
-- **`results/`**: Contains output files and visualizations of model performance.
-
----
-
 ## Run the Notebooks:
 
 Navigate to the notebooks/ directory and run the Jupyter notebooks to see the data processing and model training steps.
